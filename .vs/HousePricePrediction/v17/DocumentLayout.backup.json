@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|c:\\users\\workstation\\source\\repos\\housepriceprediction\\housepriceprediction\\models\\mlservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|solutionrelative:housepriceprediction\\models\\mlservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|c:\\users\\workstation\\source\\repos\\housepriceprediction\\housepriceprediction\\models\\housedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|solutionrelative:housepriceprediction\\models\\housedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|c:\\users\\workstation\\source\\repos\\housepriceprediction\\housepriceprediction\\data\\houses.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|solutionrelative:housepriceprediction\\data\\houses.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|c:\\users\\workstation\\source\\repos\\housepriceprediction\\housepriceprediction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|solutionrelative:housepriceprediction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|c:\\users\\workstation\\source\\repos\\housepriceprediction\\housepriceprediction\\views\\prediction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|solutionrelative:housepriceprediction\\views\\prediction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|c:\\users\\workstation\\source\\repos\\housepriceprediction\\housepriceprediction\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|solutionrelative:housepriceprediction\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|c:\\users\\workstation\\source\\repos\\housepriceprediction\\housepriceprediction\\views\\prediction\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|solutionrelative:housepriceprediction\\views\\prediction\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|c:\\users\\workstation\\source\\repos\\housepriceprediction\\housepriceprediction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE207542-00FF-492F-916B-7486FC802C6D}|HousePricePrediction\\HousePricePrediction.csproj|solutionrelative:housepriceprediction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Program.cs",
+              "RelativeDocumentMoniker": "HousePricePrediction\\Program.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Program.cs",
+              "RelativeToolTip": "HousePricePrediction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:59:49.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HousePricePrediction\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HousePricePrediction\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T20:58:26.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Views\\Prediction\\index.cshtml.cs",
+              "RelativeDocumentMoniker": "HousePricePrediction\\Views\\Prediction\\index.cshtml.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Views\\Prediction\\index.cshtml.cs",
+              "RelativeToolTip": "HousePricePrediction\\Views\\Prediction\\index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:57:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Views\\Prediction\\index.cshtml",
+              "RelativeDocumentMoniker": "HousePricePrediction\\Views\\Prediction\\index.cshtml",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Views\\Prediction\\index.cshtml",
+              "RelativeToolTip": "HousePricePrediction\\Views\\Prediction\\index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T20:57:02.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PredictionController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Controllers\\PredictionController.cs",
+              "RelativeDocumentMoniker": "HousePricePrediction\\Controllers\\PredictionController.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Controllers\\PredictionController.cs",
+              "RelativeToolTip": "HousePricePrediction\\Controllers\\PredictionController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:55:55.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MLServices.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Models\\MLServices.cs",
+              "RelativeDocumentMoniker": "HousePricePrediction\\Models\\MLServices.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Models\\MLServices.cs*",
+              "RelativeToolTip": "HousePricePrediction\\Models\\MLServices.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:54:22.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HouseData.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Models\\HouseData.cs",
+              "RelativeDocumentMoniker": "HousePricePrediction\\Models\\HouseData.cs",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Models\\HouseData.cs",
+              "RelativeToolTip": "HousePricePrediction\\Models\\HouseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:52:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "houses.csv",
+              "DocumentMoniker": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Data\\houses.csv",
+              "RelativeDocumentMoniker": "HousePricePrediction\\Data\\houses.csv",
+              "ToolTip": "C:\\Users\\workstation\\source\\repos\\HousePricePrediction\\HousePricePrediction\\Data\\houses.csv",
+              "RelativeToolTip": "HousePricePrediction\\Data\\houses.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-23T20:51:30.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
