@@ -44,3 +44,10 @@
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+## 👥 Integrantes do Grupo
+
+- Átila Costa - RM552650
+- Lorenzo Vaz - RM553941
+- Gabriel Plasa - RM553527
+- Gabriel Onodera - RM553779
