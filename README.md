@@ -45,6 +45,10 @@
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
+## Link do Video 
+
+- https://youtu.be/kzDvbBEa3nQ
+
 ## 👥 Integrantes do Grupo
 
 - Átila Costa - RM552650
